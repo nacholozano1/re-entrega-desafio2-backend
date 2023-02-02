@@ -1,0 +1,10 @@
+[
+
+    {"title":"Elden Ring","description":"El mejor juego del año 2022","price":4999,"thumbnail":"img/juegos/elden-ring.jpg","code":"1A","stock":500,"id":1},
+    {"title":"Call of Duty: Modern Warefare 2","description":"Juegazo de guerra","price":7999,"thumbnail":"img/juegos/modern-warfare-2.jpg","code":"2A","stock":500,"id":2},
+    {"title":"FIFA 23","description":"El mejor juego de futbol","price":7999,"thumbnail":"img/juegos/fifa-23.jpg","code":"3A","stock":500,"id":3},
+    {"title":"Lego Star Wars: The Skywalker Saga","description":"Una palabra, tres silabas. JUE-GA-ZO","price":6999,"thumbnail":"img/juegos/lego_star_wars.jpg","code":"4A","stock":500,"id":4},
+    {"title":"","description":"","price":"","thumbnail":"","code":"","stock":"","id":5},
+    {"title":"producto test","description":"Hola soy un producto de prueba","price":"3300","thumbnail":"img/nada","code":"5A","stock":"500","id":6}
+
+]
